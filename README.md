@@ -25,5 +25,4 @@ Using pub
         args: ^2.4.2
         ml_linalg: ^13.12.6
         equations: ^5.0.2
-        image: ^4.5.4
         tuple: ^2.0.2
