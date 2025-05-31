@@ -13,6 +13,7 @@ Clone the warpPerspective_pure_dart repository:
 ❯ git clone https://github.com/FahNos/warpPerspective_pure_dart
 
 Navigate to the project directory:
+
 ❯ cd warpPerspective_pure_dart
 
 Install the project dependencies:
