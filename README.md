@@ -1,2 +1,1 @@
-# warpPerspective_pure_dart
-This repository introduce warpPerspective method: INTER CUBIC AND INTER_LANCZOS4 with pure Dart
+A sample command-line application providing basic argument parsing with an entrypoint in `bin/`.

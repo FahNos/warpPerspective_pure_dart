@@ -1,0 +1,21 @@
+name: test_2
+description: A sample command-line application with basic argument parsing.
+version: 0.0.1
+# repository: https://github.com/my_org/my_repo
+
+environment:
+  sdk: ^3.3.0
+
+# Add regular dependencies here.
+dependencies:
+  args: ^2.4.2
+  ml_linalg: ^13.12.6
+  equations: ^5.0.2
+  image: ^4.5.4
+  tuple: ^2.0.2
+
+
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.24.0
